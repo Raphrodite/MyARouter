@@ -11,4 +11,6 @@ public class ARouterPath {
 
     public static final String HOME_HOME="/home/home";
 
+    public static final String HOME_FRAGMENT="/home/fragment";
+
 }
