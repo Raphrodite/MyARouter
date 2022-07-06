@@ -7,6 +7,8 @@ package com.example.baselib;
  */
 public class ARouterPath {
 
-    public static final String CIRCLE_CIRCLE="/circle/home";
+    public static final String CIRCLE_CIRCLE="/circle/circle";
+
+    public static final String HOME_HOME="/home/home";
 
 }
