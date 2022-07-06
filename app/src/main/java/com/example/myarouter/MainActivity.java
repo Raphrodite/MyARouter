@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         ActivityMainBinding binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
+        //视图绑定
         binding.tv.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
